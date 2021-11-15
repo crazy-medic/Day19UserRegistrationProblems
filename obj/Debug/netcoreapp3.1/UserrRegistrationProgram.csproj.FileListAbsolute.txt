@@ -1,0 +1,14 @@
+C:\Users\vinee\source\repos\UserrRegistrationProgram\bin\Debug\netcoreapp3.1\UserrRegistrationProgram.exe
+C:\Users\vinee\source\repos\UserrRegistrationProgram\bin\Debug\netcoreapp3.1\UserrRegistrationProgram.deps.json
+C:\Users\vinee\source\repos\UserrRegistrationProgram\bin\Debug\netcoreapp3.1\UserrRegistrationProgram.runtimeconfig.json
+C:\Users\vinee\source\repos\UserrRegistrationProgram\bin\Debug\netcoreapp3.1\UserrRegistrationProgram.runtimeconfig.dev.json
+C:\Users\vinee\source\repos\UserrRegistrationProgram\bin\Debug\netcoreapp3.1\UserrRegistrationProgram.dll
+C:\Users\vinee\source\repos\UserrRegistrationProgram\bin\Debug\netcoreapp3.1\UserrRegistrationProgram.pdb
+C:\Users\vinee\source\repos\UserrRegistrationProgram\obj\Debug\netcoreapp3.1\UserrRegistrationProgram.csproj.AssemblyReference.cache
+C:\Users\vinee\source\repos\UserrRegistrationProgram\obj\Debug\netcoreapp3.1\UserrRegistrationProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinee\source\repos\UserrRegistrationProgram\obj\Debug\netcoreapp3.1\UserrRegistrationProgram.AssemblyInfoInputs.cache
+C:\Users\vinee\source\repos\UserrRegistrationProgram\obj\Debug\netcoreapp3.1\UserrRegistrationProgram.AssemblyInfo.cs
+C:\Users\vinee\source\repos\UserrRegistrationProgram\obj\Debug\netcoreapp3.1\UserrRegistrationProgram.csproj.CoreCompileInputs.cache
+C:\Users\vinee\source\repos\UserrRegistrationProgram\obj\Debug\netcoreapp3.1\UserrRegistrationProgram.dll
+C:\Users\vinee\source\repos\UserrRegistrationProgram\obj\Debug\netcoreapp3.1\UserrRegistrationProgram.pdb
+C:\Users\vinee\source\repos\UserrRegistrationProgram\obj\Debug\netcoreapp3.1\UserrRegistrationProgram.genruntimeconfig.cache
